@@ -1,4 +1,4 @@
-turno PL5
+Software Engeneering project
 
 Diogo Moreira 2211051
 Jorge Silva 2210998
